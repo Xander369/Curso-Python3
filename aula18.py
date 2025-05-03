@@ -1,8 +1,8 @@
 # if / elif      / else
 # se / se não se / se não
 
-condicao1 = True
-condicao2 = True
+condicao1 = False
+condicao2 = False
 condicao3 = True
 condicao4 = True
 
@@ -20,5 +20,5 @@ else:
 
 if 10 == 10:
     print('Outro if')
-
+    
 print('Fora do if')
