@@ -12,4 +12,4 @@ elif entrada == 'sair':
 else:
     print('Você não digitou nem entrar nem sair.')
 
-    print ('FORA DOS BLOCOS')
+print('FORA DOS BLOCOS')
